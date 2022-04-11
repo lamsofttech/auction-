@@ -1,2 +1,2 @@
-# auction-
-A system that help clients auction their properties to different clients
+# Online Auction Portal
+Simple PHP based website for Online Auctions.
